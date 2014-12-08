@@ -5,10 +5,19 @@ We are some random advertising guys from the Leo Burnett office in Frankfurt am 
 
 The Team
 --------
-- Viktor Kislovskij, Programming, Conception
-- Philipp Trübiger, Research and Media, Conception
-- Laura Weber, Research, Conception
-- Helge Kniess, Design, Conception
+
+#### Viktor Kislovskij
+Still waiting for the white rabbit. Meanwhile Viktor is working as a Creative Technologist in Frankfurt am Main with lasers and drones. Because everybody love lasers and drones, he says.
+
+#### Philipp Trübiger
+Every team needs a curly hair digital all-in-one dude. Otherwise they fail.
+
+#### Laura Weber
+“This is serious! We have no more chocolate.”. Chocolate is indeed the only thing that helps when you are studying these terms.
+
+#### Helge Kniess
+[![Helge](/img/helge.jpg "Helge")]
+
 
 Our Submission
 --------------
