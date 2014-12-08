@@ -16,7 +16,7 @@ Every team needs a curly hair digital all-in-one dude. Otherwise they fail.
 “This is serious! We have no more chocolate.”. Chocolate is indeed the only thing that helps when you are studying these terms.
 
 #### Helge Kniess
-[![Helge](/img/helge.jpg "Helge")]
+![Helge](/img/helge.jpg)
 
 
 Our Submission
